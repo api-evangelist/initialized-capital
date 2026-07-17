@@ -1,0 +1,20 @@
+generated: '2026-07-17'
+method: searched
+source: https://initialized.com/team
+type: Team
+team:
+  - name: Garry Tan
+    role: Founder & Board Partner
+    source: https://initialized.com/team
+  - name: Brett Gibson
+    role: Managing Partner
+    source: https://initialized.com/team
+  - name: Abdul Ly
+    role: Partner
+    source: https://initialized.com/team
+  - name: Kim-Mai Cutler
+    role: Partner
+    source: https://initialized.com/team
+  - name: Zoe Perret
+    role: Partner
+    source: https://initialized.com/team

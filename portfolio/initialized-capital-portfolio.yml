@@ -1,0 +1,2022 @@
+generated: '2026-07-17'
+method: searched
+source: https://initialized.com/companies
+summary:
+  portfolio_total: 184
+  in_network: 39
+  api_providers: 31
+  missing: 145
+  stubs_created: 0
+companies:
+- name: 10x Science
+  url: https://10xscience.com/
+  description: 10x Science develops frontier AI software to molecularly characterize proteins at scale
+    and democratize how scientists analyze complex data in real time.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 10x-science
+- name: 7 Cups
+  url: http://7cups.com
+  description: 7 Cups is affordable online therapy and free online emotional support provided by trained
+    listeners interacting through an anonymous and 24/7 text chat.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 7-cups
+- name: AdQuick
+  url: http://adquick.com
+  description: AdQuick is a marketplace to buy and sell outdoor advertising as well as online tools to
+    measure campaign attribution.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: adquick
+- name: Adyton
+  url: https://adyton.io/
+  description: Adyton makes mobile applications for the Department of Defense, offering logistics and
+    communications tools to improve military operations.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: adyton
+- name: A-Frame
+  url: https://aframebrands.com/
+  description: A-Frame is a portfolio of talent-led sustainable personal care brands creating products
+    for underserved communities.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: a-frame
+- name: Albedo
+  url: https://albedo.space/
+  description: Albedo is the highest resolution satellite imagery commercially available, offering aerial
+    quality imaging from space.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: albedo
+- name: Algolia
+  url: https://algolia.com/
+  description: Algolia empowers builders with the search and recommendation services they need to build
+    world-class website experiences.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: algolia
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Alien
+  url: https://alien.org/
+  description: Alien is building trust infrastructure for the agentic economy, with a decentralized identity
+    L1 network that verifies humans and links AI agents to their human owners.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alien
+- name: Alix
+  url: https://meetalix.com/
+  description: Alix creates empathetic AI-powered technology to support with the process of estate settlement.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alix
+- name: Alliance DAO
+  url: https://alliance.xyz/
+  description: Alliance DAO is an accelerator for crypto founders to start and grow their companies.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alliance-dao
+- name: Apero
+  url: https://aperohealth.com/
+  description: Apero is an enterprise billing service for medical practices, offering a API and dashboard
+    for eligibility, customer invoicing and navigating complex payer relationships.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: apero
+- name: Apollo
+  url: https://apollographql.com/
+  description: Apollo makes application development easier, better, and accessible to more people.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: anilist
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AptDeco
+  url: https://aptdeco.com/
+  description: AptDeco is the leading furniture resale marketplace that handles all the logistics of buying
+    and selling used furniture online.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aptdeco
+- name: Arcturus
+  url: https://arcturus.io/
+  description: Arcturus is an advanced materials company that infuses carbon nanomaterials into metals
+    to unlock step-change improvements in electrical, thermal, and mechanical performance.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arcturus
+- name: Arena AI
+  url: https://arena-ai.com/
+  description: Arena uses AI to translate company data into a real-time simulation platform that offers
+    insights into sales, pricing, promotion, and marketing strategies.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arena-ai
+- name: Around
+  url: https://miro.com/
+  description: Around, acquired by Miro, is video calling designed to help hybrid-remote teams create,
+    collaborate, and celebrate together.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: miro
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AstroForge
+  url: https://astroforge.io/
+  description: AstroForge mines asteroids to extract valuable minerals in space.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: astroforge
+- name: Athelas
+  url: https://athelas.com/
+  description: Athelas, merged with Commure, is medical testing that offers remote patient monitoring
+    and telehealth services.
+  sector: hardware
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: athelas
+- name: Atomic Finance
+  url: https://atomic.finance/
+  description: Atomic Finance offers a transparent way to earn yield on Bitcoin without giving up custody.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atomic-finance
+- name: Atoms
+  url: https://atoms.com/
+  description: Atoms offers impeccably designed shoes for everyday and every person.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atoms
+- name: Automat
+  url: https://runautomat.com/
+  description: Automat makes creating automations (RPA) as easy as uploading a video or describing a workflow.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: automat
+- name: Ava
+  url: https://ava.me/
+  description: Ava offers transcription services for businesses and educators to caption and translate
+    live conversations with accuracy.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: ava
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ava Labs
+  url: https://avalabs.org/
+  description: AVAX, created by Ava Labs, is a cryptocurrency that uses Avalanche consensus.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ava-labs
+- name: Azura
+  url: https://azura.xyz/
+  description: Azura is a full-stack trading platform for DeFi
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: azura
+- name: Basalt
+  url: https://basalt.space/
+  description: Basalt brings AI into orbit for business and defense.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: basalt
+- name: Beeper
+  url: https://beeper.com/
+  description: Beeper, acquired by Automattic, is a universal chat app that collates all of your messaging
+    platforms, with secured encryptions and data privacy.
+  sector: consumer
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beeper
+- name: Bellhops
+  url: http://getbellhops.com
+  description: Bellhops is a full-service moving company that can be booked online with $0 down.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bellhops
+- name: Beyond Aero
+  url: https://www.beyond-aero.com/
+  description: Beyond Aero is building the world's first electric business aircraft using hydrogen propulsion.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beyond-aero
+- name: Bison Trails
+  url: https://bisontrails.co/
+  description: Bison Trails, acquired by Coinbase and now part of Coinbase Cloud, provides a platform
+    for users to run secure infrastructure on multiple blockchains.
+  sector: crypto
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bison-trails
+- name: Bland Company
+  url: https://www.theblandcompany.co/
+  description: The Bland Company is harnessing abundant, overlooked agricultural byproducts to redefine
+    protein production.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bland-company
+- name: Blend
+  url: https://blend.com/
+  description: Blend is cloud banking infrastructure powering billions of dollars in financial transactions
+    everyday.
+  sector: fintech
+  stage: seed
+  status: ipo
+  source: https://initialized.com/companies
+  slug: blend-mortgage
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bodyport
+  url: http://bodyport.com/
+  description: Bodyport is a digital therapeutics company addressing complex chronic conditions by embedding
+    a biomarker platform into easy-to-use devices.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bodyport
+- name: Braid
+  url: https://braid.network/
+  description: Braid is a platform for creators to share their content from every channel, in one place,
+    enabling creators to engage directly with their community.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: braid
+- name: Bristle
+  url: https://bristlehealth.com/
+  description: Bristle is saliva analysis testing that offers a breakdown of the oral microbiome, with
+    personalized recommendations to proactively optimize your oral health.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bristle
+- name: Bruce
+  url: https://bruce.bot/
+  description: Bruce is an AI-native relationship intelligence platform that automates high-trust professional
+    introductions and powers a proprietary reputation graph for the next generation of AI search and discovery.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bruce
+- name: Caliza
+  url: https://caliza.co/
+  description: Caliza's financial infrastructure removes global borders from commerce, enabling firms
+    to offer real-time settlement and dollar accounts to their customers.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: caliza
+- name: Clairity
+  url: https://clairitytech.com/
+  description: Clairity builds low-cost and scalable systems for direct air capture of CO2 to enable gigaton
+    scale carbon removal.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clairity
+- name: Clever
+  url: https://clever.com/
+  description: Clever, aquired by Kahoot!, is the most widely used single sign-on portal for K-12 schools
+    in the US.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: clever
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Clipboard Health
+  url: http://clipboardhealth.com
+  description: Clipboard Health is an online marketplace for skilled healthcare professionals to pick
+    up extra shifts and for medical facilities to find additional staff.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clipboard-health
+- name: Clone
+  url: https://clonerobotics.com/
+  description: Clone is building muscoskeletal intelligent androids to solve all the common problems of
+    daily life.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clone
+- name: Cofertility
+  url: https://cofertility.com/
+  description: Cofertility is a fertility ecosystem that enables women to freeze their eggs for free when
+    they donate half of the eggs to a family that otherwise can’t conceive, providing support and education
+    for everyone involved along the way.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cofertility
+- name: Coinbase
+  url: https://www.coinbase.com/
+  description: Coinbase is the world's leading cryptocurrency exchange platform.
+  sector: crypto
+  stage: seed
+  status: ipo
+  source: https://initialized.com/companies
+  slug: coinbase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CoinTracker
+  url: https://www.cointracker.io/
+  description: CoinTracker is a holistic portfolio and tax manager for cryptocurrency token holders.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cointracker
+- name: Color Genomics
+  url: http://www.color.com/
+  description: Color provides the technology and infrastructure for large-scale health initiatives, from
+    population genomics programs to high throughput COVID-19 testing.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: color-genomics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Coordinate
+  url: https://coordinatehq.com/
+  description: Coordinate's software enables professional services companies to manage clients and automate
+    processes, making it easy to run projects at scale.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coordinate
+- name: Coperniq
+  url: https://www.coperniq.io/
+  description: Coperniq provides solar contractors with end-to-end workflow software, creating time and
+    cost savings to help the industry scale.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coperniq
+- name: CreatorDAO
+  url: https://creatordao.com/
+  description: CreatorDAO empowers successful content creators to invest in the next generation of creators.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: creatordao
+- name: Crewline
+  url: https://crewline.ai/
+  description: Crewline helps excavation and grading contractors do more work by upgrading existing machines
+    to self-driving in 1 hour.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crewline
+- name: Cron
+  url: https://cron.com/
+  description: Cron, acquired by Notion, is the next-generation calendar for professionals and teams.
+  sector: consumer
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cron
+- name: Cruise
+  url: https://getcruise.com/
+  description: Cruise, acquired by GM, is building technology to make vehicle operations fully autonomous.
+  sector: frontier-tech
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cruise
+- name: Culdesac
+  url: https://culdesac.com/
+  description: Culdesac is building the neighborhoods of the future, offering full development of smart,
+    driverless communities.
+  sector: real-estate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: culdesac
+- name: Curri
+  url: https://curri.com/
+  description: Curri is an all-in-one logistics platform helping construction and industrial distributors
+    deliver fast, reliably, and professionally.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: curri
+- name: Data Driven Bioscience
+  url: https://datadrivenbioscience.com/
+  description: Data Driven Bioscience has created the tools for clinical labs to apply genomics for the
+    speedy diagnosis of blood cancers.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: data-driven-bioscience
+- name: Datasaur
+  url: http://datasaur.ai/
+  description: Datasaur is a customizable AI tool for small businesses, built specifically for NLP labeling.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datasaur
+- name: Deepnight
+  url: https://deepnight.ai/
+  description: Deepnight is developing next-gen night vision, combining emerging science in AI imaging
+    with low-light sensors.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: deepnight
+- name: Depict.ai
+  url: https://depict.ai/
+  description: Depict.ai provides the best e-commerce product recommendations for retailers.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: depictai
+- name: DevCycle
+  url: https://www.devcycle.com/
+  description: DevCycle, acquired by Dynatrace, The leading open standards feature management platform
+    built to help developers ship faster.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: devcycle
+- name: Digger
+  url: https://digger.dev/
+  description: Digger builds tools for infrastructure developers.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: digger
+- name: Double
+  url: https://doublerobotics.com/
+  description: Double helps telecommuters feel more connected to their colleagues by giving them a physical
+    presence with the world's leading telepresence robot.
+  sector: hardware
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: double
+- name: Drip Capital
+  url: https://dripcapital.com/
+  description: Drip Capital’s buyer finance solutions provide a low-cost line of credit that importers
+    and traders can access at the click of a button.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: drip-capital
+- name: Easypost
+  url: https://easypost.com/
+  description: Easypost provides integration of shipping into any e-commerce platform, with a multi-carrier
+    solution and flexible shipping APIs.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: easypost
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Eclipse Foods
+  url: https://eclipsefoods.com/
+  description: Eclipse is a proprietary plant-based dairy replacement, offering the same consistency and
+    flavor as traditional milk.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eclipse-foods
+- name: Enable
+  url: https://enablemedicine.com/
+  description: Enable collaborates with the world’s leading researchers to construct detailed and searchable
+    maps of complex diseases, making possible the exploration, navigation, and discovery of underlying
+    biological rules.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enable
+- name: Enhanced Radar
+  url: https://www.enhancedradar.com/
+  description: Enhanced radar is an applied AI company building aviation solutions to increase safety
+    & efficiency.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enhanced-radar
+- name: Envoy
+  url: https://envoy.com/
+  description: Envoy provides the leading full-service workplace visitor and employee workspace management
+    platform.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: envoy
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Feanix
+  url: https://feanixbio.com/#
+  description: Feanix combines AI and modern genomics to optimize livestock management on farms.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: feanix
+- name: Flexport
+  url: http://flexport.com
+  description: Flexport is a supply chain logistics company supporting end-to-end shipping in over 80
+    countries.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: flexport
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Flock Safety
+  url: http://flocksafety.com/
+  description: Flock Safety's cameras provide 24/7 license plate and sound monitoring for homes, businesses,
+    and neighborhoods to protect against property crime, stolen vehicles, and more.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flock-safety
+- name: Fly.io
+  url: https://fly.io
+  description: Fly.io is a platform to run full stack apps and databases close to your users, with physical
+    servers in cities around the world.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: fly-io
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Formic
+  url: https://formic.co/
+  description: Formic is a robotic rental service offering custom installation and a pay-by-the-hour model
+    for automated manufacturing.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: formic
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Fourthwall
+  url: https://fourthwall.com/
+  description: Fourthwall helps creators earn more and engage their communities through custom-branded
+    homepages, shops, memberships, and more.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: fourthwall
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Front
+  url: https://front.com/
+  description: Front is a customer communications hub, making collaboration easy and information accessible.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: front
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Garage
+  url: https://www.shopgarage.com/
+  description: Garage is the online marketplace revolutionizing the way America’s most essential equipment
+    is bought and sold.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: garage
+- name: Glass Health
+  url: https://glass.health/
+  description: Glass Health empowers doctors with an AI-powered platform that supports clinical decision-making.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: glass-health
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: GOAT
+  url: http://goat.com
+  description: GOAT is a sneaker and modern apparel marketplace.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: goat
+- name: Greptile
+  url: https://greptile.com/
+  description: Greptile is an AI expert on any codebase that reviews pull requests, answers hard questions
+    about complex codebases, writes Linear ticket descriptions, and more, with full codebase context.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: greptile
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Guide Labs
+  url: https://www.guidelabs.ai/
+  description: Guide Labs is building a new class of interpretable AI systems and foundation models that
+    humans can reliably debug, trust, and understand.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guide-labs
+- name: Handoff
+  url: https://handoff.ai/
+  description: Handoff uses AI to create instant construction estimates and automates business operations
+    for contractors.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: handoff
+- name: Heap
+  url: https://heap.io/
+  description: Heap is the leading digital insights platform that combines quantitative and qualitative
+    analytics for a 360-degree view of the customer journey.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: heap
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: HER
+  url: https://weareher.com/
+  description: HER, acquired by Match Group, is a dating and community-building platform for lesbian,
+    bisexual, queer women and gender-non-conforming icons worldwide.
+  sector: consumer
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: her
+- name: HomeVision
+  url: https://homevision.co/
+  description: Comprehensive collateral underwriting, powered by machine intelligence.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: homevision
+- name: Horizon Blockchain Games
+  url: https://horizongames.net/
+  description: Horizon, acquired by Polygon Labs, is the maker of Sequence and Skyweaver, a trading card
+    game with blockchain mechanics for persistent ownership of digital goods.
+  sector: consumer
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: horizon-blockchain-games
+- name: Hummingbot
+  url: https://hummingbot.io/
+  description: Hummingbot is an open source toolbox for professional liquidity providers.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hummingbot
+- name: Instacart
+  url: http://instacart.com/
+  description: Instacart is a same-day grocery delivery company offering food and home essentials from
+    a variety of local stores.
+  sector: consumer
+  stage: seed
+  status: ipo
+  source: https://initialized.com/companies
+  slug: instacart
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Invisible Universe
+  url: https://invisibleuniverse.com/
+  description: Invisible Universe is an animation studio rewriting the playbook on developing kids and
+    family entertainment.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: invisible-universe
+- name: Jinx
+  url: https://thinkjinx.com/
+  description: Jinx provides nutritious dog food and treats made with real ingredients.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jinx
+- name: kapa.ai
+  url: https://www.kapa.ai
+  description: Kapa.ai turns your knowledge base into a reliable and production-ready LLM-powered AI assistant
+    that answers technical questions instantly.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: kapa-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kayhan Space
+  url: https://kayhan.space/
+  description: Kayhan Space provides next-generation automation to satellite operations and spaceflight
+    safety.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kayhan-space
+- name: Kinlo
+  url: https://kinlo.com
+  description: Kinlo is Naomi Osaka's suncare line designed for the melanin-rich.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kinlo
+- name: Kinside
+  url: https://kinside.com/
+  description: Kinside, acquired by UrbanSitter, is a marketplace connecting daycares/preschools with
+    working parents via their employers for available and reliable childcare.
+  sector: marketplaces
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kinside
+- name: Laurel
+  url: https://www.laurel.ai/
+  description: Laurel provides AI-powered timekeeping solutions for accounting and legal services.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: laurel
+- name: LeadGenius
+  url: https://leadgenius.com/
+  description: LeadGenius delivers hard-to-find b2b contact and account data, insights, and signals from
+    around the world.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: leadgenius
+- name: Lever
+  url: http://lever.co
+  description: Lever, acquired by Employ Inc., makes the world's leading recruiting software, with an
+    applicant tracking system and candidate relationship management system in one platform.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: lever
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lingo.dev
+  url: https://lingo.dev/
+  description: Lingo.dev is building the world's first AI localization engine, automatically translating
+    software products the moment developers push code changes and eliminating the need for manual translation
+    management.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: lingo-dev
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: LOB
+  url: http://lob.com
+  description: Lob offers a suite of APIs for enterprises looking to programmatically send letters, postcards,
+    and checks.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: lob
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: LTSE
+  url: https://ltse.com/
+  description: Long Term Stock Exchange, or LTSE, is a U.S. national securities exchange focused on building
+    a better world.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ltse
+- name: Manifold
+  url: https://manifold.xyz/
+  description: Manifold enables web3 creators to have creative ownership, preserve on-chain provenance,
+    and interoperate with all major NFT marketplaces.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: manifold
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Medivis
+  url: https://medivis.com/
+  description: Medivis uses technological advancements in augmented reality and computer vision to create
+    a holographic future for surgery.
+  sector: hardware
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medivis
+- name: Mezmo
+  url: https://mezmo.com/
+  description: Mezmo is an observability platform that ingests, processes, and routes log data to fuel
+    enterprise-level application development and delivery, security, and compliance use cases.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: mezmo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mindstate Design Labs
+  url: https://mindstate.design/
+  description: Mindstate Design Labs is a preclinical-stage biotechnology company developing the next
+    generation of psychedelic-inspired therapeutics for intractable mental health conditions.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mindstate-design-labs
+- name: MixerBox
+  url: http://mixerbox.com/
+  description: MixerBox is an all-in-one media player for listening to music, videos, and podcasts from
+    various services.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mixerbox
+- name: Modulo
+  url: https://modulo.bio/
+  description: Modulo is a Biotech company working to reprogram the brain’s immune system to cure neurodegenerative
+    disorders.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: modulo
+- name: NanoVMs
+  url: https://nanovms.com/
+  description: NanoVMs runs applications faster, safer, and with less cost using cloud unikernal infrastructure.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nanovms
+- name: Nara Organics
+  url: https://nara.com/
+  description: The only USDA organic certified whole milk baby formula with no skim milk.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nara-organics
+- name: NoScrubs
+  url: https://noscrubs.com/
+  description: NoScrubs is the fastest, most affordable laundry delivery service.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noscrubs
+- name: Numero
+  url: https://numero.ai/
+  description: Numero provides campaign fundraising software, supporting candidates in organizing contact
+    data and managing donations.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: numero
+- name: Opendoor
+  url: http://opendoor.com/
+  description: Opendoor is an online home-selling service aimed at streamlining the sales process down
+    to a few days.
+  sector: real-estate
+  stage: seed
+  status: ipo
+  source: https://initialized.com/companies
+  slug: opendoor
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Orbio
+  url: https://orbio.earth/
+  description: Orbio uses satellite imagery to detect methane emissions from oil and gas, providing data
+    to energy and finance companies that want to identify the best and worst performing energy assets
+    in their portfolios.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: orbio
+- name: Orbital Operations
+  url: https://www.orbitalops.tech/
+  description: Orbital Operations is building high-thrust vehicles for rapid orbital mobility.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: orbital-operations
+- name: Orderful
+  url: http://orderful.com/
+  description: Orderful is a complete cloud EDI platform for manufacturers, distributors, retailers, and
+    technology companies.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: orderful
+- name: OutRival
+  url: https://outrival.com/
+  description: OutRival builds Conversational AI Agents that cut costs, grow revenue, and scale personalized
+    engagement — starting with Admissions teams in Higher Education.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: outrival
+- name: Pano
+  url: https://pano.ai/
+  description: Pano is building the world’s first, fully-integrated disaster management platform focused
+    on climate change resilience.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pano
+- name: Panorama Education
+  url: http://panoramaed.com
+  description: Panorama offers an all-in-one data platform for school districts, pulling key student information
+    into one place with visual dashboard reporting.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: panorama-education
+- name: Papa
+  url: https://papa.com/
+  description: Papa helps health plans and employers connect members and their families to real people
+    for help with companionship, everyday tasks, transportation, and more.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: papa
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Paperspace
+  url: https://paperspace.com/
+  description: Paperspace is a cloud computing and machine learning development platform for building,
+    training, and deploying machine learning models.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: paperspace
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Parcha
+  url: https://www.parcha.ai/
+  description: Parcha helps businesses scale faster by instantly automating compliance and operations
+    using AI agents.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: parcha
+- name: Partiful
+  url: https://partiful.com/
+  description: Partiful is a social events platform that manages invites, RSVPs, chats, details, and photo
+    sharing.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: partiful
+- name: Patreon
+  url: http://patreon.com
+  description: Patreon is the leading platform for artists and creators to monetize their content directly
+    from fans.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: patreon
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pax
+  url: https://paxai.com/
+  description: Pax is automating the duty drawback process to lower the barrier of entry for tariff refunds.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pax
+- name: PermitFlow
+  url: https://permitflow.com/
+  description: PermitFlow provides workflow and automation software to developers and general contractors
+    to streamline their construction permitting process.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: permitflow
+- name: Picogrid
+  url: https://picogrid.com/
+  description: Picogrid is a defense technology company that builds a platform to connect fragmented defense
+    systems.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: picogrid
+- name: PIN
+  url: https://getpin.xyz/
+  description: PIN (power in numbers) helps set up and launch community funds, providing the back office
+    and legal framework, and handling yearly taxes.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pin
+- name: PlanGrid
+  url: http://plangrid.com
+  description: PlanGrid, acquired by Autodesk, provides access to critical project data for construction
+    teams in a single app, enabling faster real-time decision-making.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plangrid
+- name: PlateIQ
+  url: https://plateiq.com/
+  description: PlateIQ simplifies and automates accounts payable for restaurant and hospitality brands.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plateiq
+- name: Poker Skill
+  url: https://www.pokerskill.com/
+  description: Poker Skill helps users level up their poker game with daily puzzles, bite-sized lessons
+    and challenges.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: poker-skill
+- name: Polychain
+  url: http://polychain.capital/
+  description: Polychain is an investment firm that actively manages portfolios of blockchain assets.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: polychain
+- name: Proudly
+  url: https://proudly.com/
+  description: Proudly is Dwayne Wade and Gabrielle Union's baby care products brand, formulated to nourish
+    all shades of melanated skin.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: proudly
+- name: Radial Analytics
+  url: https://radialanalytics.com/
+  description: Radial Analytics offers advanced AI-powered solutions to help health professionals make
+    smarter decisions for patients at key crossroads moments in their care journey.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: radial-analytics
+- name: Rainforest QA
+  url: https://rainforestqa.com/
+  description: Rainforest QA is a software testing platform that allows anyone to run complete end-to-end
+    testing, fast.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rainforest-qa
+- name: RankScience
+  url: https://rankscience.com/
+  description: RankScience uses data science and NLP to automate SEO, from startups to Fortune 500 companies.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rankscience
+- name: Reddit
+  url: http://reddit.com
+  description: Reddit is the world's leading online forum.
+  sector: consumer
+  stage: seed
+  status: ipo
+  source: https://initialized.com/companies
+  slug: reddit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Red Planet Labs
+  url: https://redplanetlabs.com/
+  description: Red Planet Labs is pioneering a programming tool, built in Clojure, to change the economics
+    of software development.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: red-planet-labs
+- name: Reibus
+  url: https://reibus.com/
+  description: Reibus is a marketplace for buying and selling industrial commodities.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reibus
+- name: Repacket
+  url: https://repacket.com
+  description: Repacket makes cybersecurity simple by blocking the majority of online threats by default.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: repacket
+- name: Rescale
+  url: http://rescale.com
+  description: Rescale builds cloud software and services to enable organizations of every size to deliver
+    engineering and scientific breakthroughs.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rescale
+- name: Ridecell
+  url: http://ridecell.com
+  description: Ridecell builds the technologies and solutions that unlock the full power of fleets and
+    fleet management systems.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ridecell
+- name: Rippling
+  url: https://rippling.com
+  description: Rippling is the world's leading software for managing employee payroll, benefits, and company
+    applications.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: rippling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ro
+  url: https://ro.co/
+  description: Ro offers personalized telehealth treatment plans directly with a US-licensed healthcare
+    professional, including fast prescription deliveries.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ro
+- name: Rosebud
+  url: https://www.rosebud.app/
+  description: An AI-powered journal for mental health and personal growth.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rosebud
+- name: Routefusion
+  url: https://routefusion.com/
+  description: Routefusion offers companies the ability to scale in any market worldwide by presenting
+    the resources, expertise, and tools for cross-border payments.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: routefusion
+- name: Runway
+  url: https://runway.com/
+  description: Runway is the first strategic planning platform for modern, high growth technology companies,
+    giving teams a clear view of their entire business and enabling them to make better business decisions.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: runway
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Runwise
+  url: https://runwise.com/
+  description: Runwise monitors and automatically controls and monitors heating and water systems for
+    large residential and commercial buildings.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: runwise
+- name: Sabi
+  url: https://sabi.io/
+  description: Sabi is a brain-computer interface company developing a cap that allows users to control
+    technology with their thoughts.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sabi
+- name: Seamflow
+  url: https://www.seamflow.com/
+  description: Seamflow builds AI-native tools for the TIC industry, turning complex regulatory workflows
+    into scalable operations.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: seamflow
+- name: SendWave
+  url: https://sendwave.com/
+  description: SendWave, acquired by WorldRemit, allows users to transfer money across continents without
+    the hassle and high fees.
+  sector: fintech
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sendwave
+- name: Shelf Engine
+  url: http://shelfengine.com/
+  description: Shelf Engine, acquired by Crisp, reduces grocery store food waste through inventory and
+    ordering automation for highly perishable items.
+  sector: climate
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shelf-engine
+- name: Shogun
+  url: https://getshogun.com/
+  description: Shogun empowers brands to build and optimize e-commerce experiences for their customers
+    without code or developer reliance.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shogun
+- name: Sift Science
+  url: http://siftscience.com
+  description: Sift offers large-scale machine-learning technology services that help e-commerce businesses
+    detect and fight fraud.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sift-science
+- name: Silo
+  url: https://usesilo.com/
+  description: Silo is the first produce enterprise resource planning software built for businesses to
+    automate operations, react to market trends, and access capital.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: silo
+- name: Simple HealthKit
+  url: https://www.simplehealthkit.com/
+  description: Simple HealthKit is addressing health inequity with the first human-centric, complete diagnostics
+    platform that includes access to follow-up care for sexual wellness, respiratory health and chronic
+    conditions.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: simple-healthkit
+- name: SkySelect
+  url: https://skyselect.com/
+  description: SkySelect is an eProcurement-as-a-Service (ePaaS) platform for aircraft parts.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: skyselect
+- name: Sol
+  url: https://solreader.com/
+  description: Sol is a reading technology company creating tools to illuminate the mind.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sol
+- name: Spaceium
+  url: https://spaceium.com/
+  description: Spaceium is building in-space refueling stations to power the space superhighway.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spaceium
+- name: Spate
+  url: https://spate.nyc
+  description: Spate is a machine intelligence platform that spots the next big trend, analyzing over
+    20 billion search signals to identify shifts in consumer behavior for product and marketing innovation.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spate
+- name: SpecCheck
+  url: https://speccheckrx.com/
+  description: SpecCheck is an all-in-one solution that provides accurate prescription eyewear ordering
+    and tracking, seamless billing, and streamlined communication between patients, eye doctors, and their
+    lab partners.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: speccheck
+- name: Stacker
+  url: https://stackerhq.com/
+  description: Stacker allows teams to create software out of spreadsheets with no coding required.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: stacker
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Standard Cognition
+  url: https://standard.ai/
+  description: Standard Cognition enables autonomous checkout for brick and mortar retailers through a
+    computer vision platform.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: standard-cognition
+- name: Star Catcher
+  url: https://star-catcher.com/
+  description: 'Star Catcher''s mission is to eliminate power constraints on satellites and other spacecraft
+    by constructing the Star Catcher Network: the world’s first space-based energy grid.'
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: star-catcher
+- name: Stellar Sleep
+  url: https://stellarsleep.com/
+  description: Stellar Sleep uses psychology to help the 25 million Americans with chronic insomnia who
+    are getting inadequate and superficial care advice.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stellar-sleep
+- name: Streak
+  url: http://streak.com
+  description: Streak lets its users manage customers, sales, email support, bug tracking, and hiring
+    via Gmail.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: streak
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SXD
+  url: https://sxd.ai/
+  description: SXD combines award-winning design and patented AI to remove material waste from the first
+    cut.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sxd
+- name: Sygaldry
+  url: https://sygaldry.com/
+  description: Sygaldry is building the infrastructure for quantum superintelligence.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sygaldry
+- name: Synquote
+  url: https://synquote.com/
+  description: Synquote offers decentralized access to cryptocurrency options markets.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: synquote
+- name: Talos
+  url: https://talos.com/
+  description: Talos provides buy-side institutions and service providers with technology infrastructure
+    to power the full trade lifecycle for crypto.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: talos
+- name: Terminal 49
+  url: https://terminal49.com
+  description: Terminal 49 is an all-in-one shipment and container tracking platform.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: terminal49
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Termius
+  url: https://termius.com/
+  description: Termius is the SSH (secure shell) client that works on desktop and mobile.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: termius
+- name: The Mom Project
+  url: https://themomproject.com/
+  description: The Mom Project connects world-class companies with talented and diverse women, unlocking
+    the potential of moms in the workforce.
+  sector: marketplaces
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-mom-project
+- name: Theorem
+  url: http://theoremlp.com/
+  description: Theorem, acquired by Pagaya Technologies Ltd., uses data science and machine learning to
+    invest in marketplace lending loans.
+  sector: fintech
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: theorem
+- name: TigerEye
+  url: https://tigereye.com/
+  description: TigerEye, acquired by Lennar, is an AI-powered planning platform for go-to-market leaders
+    in sales, marketing, and finance, enabling rapid scenario testing and collaborative execution.
+  sector: enterprise-saas
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tigereye
+- name: Tilt
+  url: https://www.tilt.com/
+  description: Tilt is a better way to access money, helping more people get cash and credit by looking
+    at real-time income and spending, not just credit scores, to see their potential.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tilt
+- name: Torch
+  url: https://torch.io
+  description: Torch integrates coaching, mentoring, and group learning for professional development and
+    organizational success.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: torch
+- name: Trilobio
+  url: https://www.trilo.bio/
+  description: Trilobio is building the hardware and software to fully automate biology labs, transforming
+    the fields of synthetic and molecular biology.
+  sector: frontier-tech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trilobio
+- name: TRM Labs
+  url: https://trmlabs.com/
+  description: TRM leads transaction monitoring and security for cryptocurrency trading and digital assets.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trm-labs
+- name: True Link Financial
+  url: https://truelinkfinancial.com/
+  description: True Link provides financial solutions for people with complex needs and their caretakers.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: true-link-financial
+- name: Truepill
+  url: https://truepill.com/
+  description: Truepill is the leading telehealth fulfillment and patient engagement platform.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: truepill
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Trunk
+  url: https://trunk.io/
+  description: Trunk offers a developer-in-a-box solution to streamline the engineering process.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: trunk-io
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Upwave
+  url: https://upwave.com/
+  description: Upwave provides unified cross-media measurement and analytics platform for brand advertising.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upwave
+- name: Valar Atomics
+  url: https://www.valaratomics.com/
+  description: Valar Atomics is scaling nuclear energy for heavy industrial power and clean hydrocarbon
+    fuel production.
+  sector: climate
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: valar-atomics
+- name: Vetcove
+  url: https://vetcove.com/
+  description: Vetcove powers the animal health supply chain.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vetcove
+- name: Vibe Bio
+  url: https://vibebio.com/
+  description: Vibe Bio is a biotech company composed of patients, scientists, and partners that is governed
+    & funded by a crypto token.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vibe-bio
+- name: Weave
+  url: http://getweave.com
+  description: Weave brings together a phone system and a suite of communication tools for medical professionals
+    to manage patient relations.
+  sector: healthcare
+  stage: seed
+  status: acquired
+  source: https://initialized.com/companies
+  slug: weave-hq
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Withco
+  url: https://with.co/
+  description: Withco helps small businesses buy and sell commercial properties.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: withco
+- name: WorkRamp
+  url: https://workramp.com
+  description: WorkRamp is the all-in-one learning platform for training, educating, and onboarding employees.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  slug: workramp
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: ZeroEntropy
+  url: https://www.zeroentropy.dev/
+  description: ZeroEntropy is an adaptive AI retrieval engine that understands context, learns from every
+    query, and delivers accurate, personalized results—out of the box.
+  sector: enterprise-saas
+  stage: seed
+  status: active
+  source: https://initialized.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zeroentropy
