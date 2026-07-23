@@ -3,9 +3,9 @@ method: searched
 source: https://initialized.com/companies
 summary:
   portfolio_total: 184
-  in_network: 39
-  api_providers: 31
-  missing: 145
+  in_network: 184
+  api_providers: 55
+  missing: 0
   stubs_created: 0
 companies:
 - name: 10x Science
@@ -16,9 +16,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 10x-science
+  slug: 10x-science
+  matched_by: domain
 - name: 7 Cups
   url: http://7cups.com
   description: 7 Cups is affordable online therapy and free online emotional support provided by trained
@@ -27,9 +28,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 7-cups
+  slug: 7cups
+  matched_by: domain
 - name: AdQuick
   url: http://adquick.com
   description: AdQuick is a marketplace to buy and sell outdoor advertising as well as online tools to
@@ -38,9 +40,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: adquick
+  slug: adquick
+  matched_by: domain
 - name: Adyton
   url: https://adyton.io/
   description: Adyton makes mobile applications for the Department of Defense, offering logistics and
@@ -49,9 +52,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: adyton
+  slug: adyton
+  matched_by: name-slug
 - name: A-Frame
   url: https://aframebrands.com/
   description: A-Frame is a portfolio of talent-led sustainable personal care brands creating products
@@ -60,9 +64,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: a-frame
+  slug: a-frame-brands
+  matched_by: domain
 - name: Albedo
   url: https://albedo.space/
   description: Albedo is the highest resolution satellite imagery commercially available, offering aerial
@@ -71,9 +76,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: albedo
+  slug: albedo
+  matched_by: domain
 - name: Algolia
   url: https://algolia.com/
   description: Algolia empowers builders with the search and recommendation services they need to build
@@ -94,9 +100,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alien
+  slug: alien
+  matched_by: domain
 - name: Alix
   url: https://meetalix.com/
   description: Alix creates empathetic AI-powered technology to support with the process of estate settlement.
@@ -104,9 +111,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alix
+  slug: alix
+  matched_by: domain
 - name: Alliance DAO
   url: https://alliance.xyz/
   description: Alliance DAO is an accelerator for crypto founders to start and grow their companies.
@@ -114,9 +122,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alliance-dao
+  slug: alliance
+  matched_by: domain
 - name: Apero
   url: https://aperohealth.com/
   description: Apero is an enterprise billing service for medical practices, offering a API and dashboard
@@ -125,9 +134,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apero
+  slug: apero
+  matched_by: domain
 - name: Apollo
   url: https://apollographql.com/
   description: Apollo makes application development easier, better, and accessible to more people.
@@ -147,9 +157,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aptdeco
+  slug: aptdeco
+  matched_by: domain
 - name: Arcturus
   url: https://arcturus.io/
   description: Arcturus is an advanced materials company that infuses carbon nanomaterials into metals
@@ -158,9 +169,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arcturus
+  slug: arcturus
+  matched_by: domain
 - name: Arena AI
   url: https://arena-ai.com/
   description: Arena uses AI to translate company data into a real-time simulation platform that offers
@@ -169,9 +181,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arena-ai
+  slug: arena-ai
+  matched_by: name-slug
 - name: Around
   url: https://miro.com/
   description: Around, acquired by Miro, is video calling designed to help hybrid-remote teams create,
@@ -191,9 +204,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: astroforge
+  slug: astroforge
+  matched_by: name-slug
 - name: Athelas
   url: https://athelas.com/
   description: Athelas, merged with Commure, is medical testing that offers remote patient monitoring
@@ -202,9 +216,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: athelas
+  in_network: true
+  is_api_provider: true
+  slug: athelas
+  matched_by: domain
 - name: Atomic Finance
   url: https://atomic.finance/
   description: Atomic Finance offers a transparent way to earn yield on Bitcoin without giving up custody.
@@ -212,9 +227,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atomic-finance
+  slug: atomic-finance
+  matched_by: domain
 - name: Atoms
   url: https://atoms.com/
   description: Atoms offers impeccably designed shoes for everyday and every person.
@@ -222,9 +238,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atoms
+  slug: atoms
+  matched_by: domain
 - name: Automat
   url: https://runautomat.com/
   description: Automat makes creating automations (RPA) as easy as uploading a video or describing a workflow.
@@ -232,9 +249,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: automat
+  in_network: true
+  is_api_provider: true
+  slug: runautomat
+  matched_by: domain
 - name: Ava
   url: https://ava.me/
   description: Ava offers transcription services for businesses and educators to caption and translate
@@ -254,9 +272,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ava-labs
+  in_network: true
+  is_api_provider: true
+  slug: ava-labs
+  matched_by: domain
 - name: Azura
   url: https://azura.xyz/
   description: Azura is a full-stack trading platform for DeFi
@@ -264,9 +283,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: azura
+  slug: azura
+  matched_by: domain
 - name: Basalt
   url: https://basalt.space/
   description: Basalt brings AI into orbit for business and defense.
@@ -274,9 +294,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: basalt
+  slug: basalt
+  matched_by: domain
 - name: Beeper
   url: https://beeper.com/
   description: Beeper, acquired by Automattic, is a universal chat app that collates all of your messaging
@@ -285,9 +306,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: beeper
+  in_network: true
+  is_api_provider: true
+  slug: beeper
+  matched_by: domain
 - name: Bellhops
   url: http://getbellhops.com
   description: Bellhops is a full-service moving company that can be booked online with $0 down.
@@ -295,9 +317,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bellhops
+  slug: bellhops
+  matched_by: domain
 - name: Beyond Aero
   url: https://www.beyond-aero.com/
   description: Beyond Aero is building the world's first electric business aircraft using hydrogen propulsion.
@@ -305,9 +328,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beyond-aero
+  slug: beyond-aero
+  matched_by: domain
 - name: Bison Trails
   url: https://bisontrails.co/
   description: Bison Trails, acquired by Coinbase and now part of Coinbase Cloud, provides a platform
@@ -316,9 +340,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bison-trails
+  slug: bison-trails
+  matched_by: domain
 - name: Bland Company
   url: https://www.theblandcompany.co/
   description: The Bland Company is harnessing abundant, overlooked agricultural byproducts to redefine
@@ -327,9 +352,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bland-company
+  slug: bland-company
+  matched_by: domain
 - name: Blend
   url: https://blend.com/
   description: Blend is cloud banking infrastructure powering billions of dollars in financial transactions
@@ -338,9 +364,9 @@ companies:
   stage: seed
   status: ipo
   source: https://initialized.com/companies
-  slug: blend-mortgage
+  slug: blend-labs
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Bodyport
   url: http://bodyport.com/
@@ -350,9 +376,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bodyport
+  slug: bodyport
+  matched_by: domain
 - name: Braid
   url: https://braid.network/
   description: Braid is a platform for creators to share their content from every channel, in one place,
@@ -361,9 +388,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: braid
+  slug: braid
+  matched_by: domain
 - name: Bristle
   url: https://bristlehealth.com/
   description: Bristle is saliva analysis testing that offers a breakdown of the oral microbiome, with
@@ -372,9 +400,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bristle
+  slug: bristle
+  matched_by: domain
 - name: Bruce
   url: https://bruce.bot/
   description: Bruce is an AI-native relationship intelligence platform that automates high-trust professional
@@ -383,9 +412,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bruce
+  slug: bruce
+  matched_by: domain
 - name: Caliza
   url: https://caliza.co/
   description: Caliza's financial infrastructure removes global borders from commerce, enabling firms
@@ -394,9 +424,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caliza
+  slug: caliza
+  matched_by: name-slug
 - name: Clairity
   url: https://clairitytech.com/
   description: Clairity builds low-cost and scalable systems for direct air capture of CO2 to enable gigaton
@@ -405,9 +436,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clairity
+  slug: clairity
+  matched_by: domain
 - name: Clever
   url: https://clever.com/
   description: Clever, aquired by Kahoot!, is the most widely used single sign-on portal for K-12 schools
@@ -428,9 +460,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clipboard-health
+  slug: clipboard-health
+  matched_by: name-slug
 - name: Clone
   url: https://clonerobotics.com/
   description: Clone is building muscoskeletal intelligent androids to solve all the common problems of
@@ -439,9 +472,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clone
+  slug: clone
+  matched_by: domain
 - name: Cofertility
   url: https://cofertility.com/
   description: Cofertility is a fertility ecosystem that enables women to freeze their eggs for free when
@@ -451,9 +485,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cofertility
+  slug: cofertility
+  matched_by: domain
 - name: Coinbase
   url: https://www.coinbase.com/
   description: Coinbase is the world's leading cryptocurrency exchange platform.
@@ -472,9 +507,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cointracker
+  slug: cointracker
+  matched_by: domain
 - name: Color Genomics
   url: http://www.color.com/
   description: Color provides the technology and infrastructure for large-scale health initiatives, from
@@ -483,9 +519,9 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  slug: color-genomics
+  slug: color
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Coordinate
   url: https://coordinatehq.com/
@@ -495,9 +531,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: coordinate
+  in_network: true
+  is_api_provider: true
+  slug: coordinate
+  matched_by: domain
 - name: Coperniq
   url: https://www.coperniq.io/
   description: Coperniq provides solar contractors with end-to-end workflow software, creating time and
@@ -506,9 +543,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: coperniq
+  in_network: true
+  is_api_provider: true
+  slug: coperniq
+  matched_by: domain
 - name: CreatorDAO
   url: https://creatordao.com/
   description: CreatorDAO empowers successful content creators to invest in the next generation of creators.
@@ -516,9 +554,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: creatordao
+  slug: creatordao
+  matched_by: domain
 - name: Crewline
   url: https://crewline.ai/
   description: Crewline helps excavation and grading contractors do more work by upgrading existing machines
@@ -527,9 +566,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: crewline
+  slug: crewline
+  matched_by: domain
 - name: Cron
   url: https://cron.com/
   description: Cron, acquired by Notion, is the next-generation calendar for professionals and teams.
@@ -537,9 +577,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cron
+  slug: cron
+  matched_by: domain
 - name: Cruise
   url: https://getcruise.com/
   description: Cruise, acquired by GM, is building technology to make vehicle operations fully autonomous.
@@ -547,9 +588,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cruise
+  slug: cruise
+  matched_by: domain
 - name: Culdesac
   url: https://culdesac.com/
   description: Culdesac is building the neighborhoods of the future, offering full development of smart,
@@ -558,9 +600,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: culdesac
+  slug: culdesac
+  matched_by: domain
 - name: Curri
   url: https://curri.com/
   description: Curri is an all-in-one logistics platform helping construction and industrial distributors
@@ -569,9 +612,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: curri
+  slug: curri
+  matched_by: domain
 - name: Data Driven Bioscience
   url: https://datadrivenbioscience.com/
   description: Data Driven Bioscience has created the tools for clinical labs to apply genomics for the
@@ -580,9 +624,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: data-driven-bioscience
+  slug: data-driven-bioscience
+  matched_by: domain
 - name: Datasaur
   url: http://datasaur.ai/
   description: Datasaur is a customizable AI tool for small businesses, built specifically for NLP labeling.
@@ -590,9 +635,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: datasaur
+  slug: datasaur
+  matched_by: domain
 - name: Deepnight
   url: https://deepnight.ai/
   description: Deepnight is developing next-gen night vision, combining emerging science in AI imaging
@@ -601,9 +647,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: deepnight
+  slug: deepnight
+  matched_by: name-slug
 - name: Depict.ai
   url: https://depict.ai/
   description: Depict.ai provides the best e-commerce product recommendations for retailers.
@@ -611,9 +658,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: depictai
+  in_network: true
+  is_api_provider: true
+  slug: depict
+  matched_by: domain
 - name: DevCycle
   url: https://www.devcycle.com/
   description: DevCycle, acquired by Dynatrace, The leading open standards feature management platform
@@ -622,9 +670,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: devcycle
+  in_network: true
+  is_api_provider: true
+  slug: devcycle
+  matched_by: domain
 - name: Digger
   url: https://digger.dev/
   description: Digger builds tools for infrastructure developers.
@@ -632,9 +681,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: digger
+  slug: digger
+  matched_by: domain
 - name: Double
   url: https://doublerobotics.com/
   description: Double helps telecommuters feel more connected to their colleagues by giving them a physical
@@ -643,9 +693,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: double
+  slug: double-robotics
+  matched_by: domain
 - name: Drip Capital
   url: https://dripcapital.com/
   description: Drip Capital’s buyer finance solutions provide a low-cost line of credit that importers
@@ -654,9 +705,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: drip-capital
+  slug: drip-capital
+  matched_by: domain
 - name: Easypost
   url: https://easypost.com/
   description: Easypost provides integration of shipping into any e-commerce platform, with a multi-carrier
@@ -677,9 +729,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eclipse-foods
+  slug: eclipse-foods
+  matched_by: domain
 - name: Enable
   url: https://enablemedicine.com/
   description: Enable collaborates with the world’s leading researchers to construct detailed and searchable
@@ -689,9 +742,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enable
+  slug: enable
+  matched_by: domain
 - name: Enhanced Radar
   url: https://www.enhancedradar.com/
   description: Enhanced radar is an applied AI company building aviation solutions to increase safety
@@ -700,9 +754,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enhanced-radar
+  slug: enhanced-radar
+  matched_by: domain
 - name: Envoy
   url: https://envoy.com/
   description: Envoy provides the leading full-service workplace visitor and employee workspace management
@@ -722,9 +777,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: feanix
+  slug: feanix
+  matched_by: domain
 - name: Flexport
   url: http://flexport.com
   description: Flexport is a supply chain logistics company supporting end-to-end shipping in over 80
@@ -745,9 +801,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: flock-safety
+  in_network: true
+  is_api_provider: true
+  slug: flock-safety
+  matched_by: domain
 - name: Fly.io
   url: https://fly.io
   description: Fly.io is a platform to run full stack apps and databases close to your users, with physical
@@ -803,9 +860,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: garage
+  slug: garage
+  matched_by: domain
 - name: Glass Health
   url: https://glass.health/
   description: Glass Health empowers doctors with an AI-powered platform that supports clinical decision-making.
@@ -824,9 +882,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: goat
+  slug: goat
+  matched_by: domain
 - name: Greptile
   url: https://greptile.com/
   description: Greptile is an AI expert on any codebase that reviews pull requests, answers hard questions
@@ -847,9 +906,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guide-labs
+  slug: guide-labs
+  matched_by: domain
 - name: Handoff
   url: https://handoff.ai/
   description: Handoff uses AI to create instant construction estimates and automates business operations
@@ -858,9 +918,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: handoff
+  slug: handoff
+  matched_by: domain
 - name: Heap
   url: https://heap.io/
   description: Heap is the leading digital insights platform that combines quantitative and qualitative
@@ -881,9 +942,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: her
+  slug: dattch
+  matched_by: domain
 - name: HomeVision
   url: https://homevision.co/
   description: Comprehensive collateral underwriting, powered by machine intelligence.
@@ -891,9 +953,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: homevision
+  slug: homevision
+  matched_by: domain
 - name: Horizon Blockchain Games
   url: https://horizongames.net/
   description: Horizon, acquired by Polygon Labs, is the maker of Sequence and Skyweaver, a trading card
@@ -902,9 +965,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: horizon-blockchain-games
+  in_network: true
+  is_api_provider: true
+  slug: horizon-blockchain-games
+  matched_by: domain
 - name: Hummingbot
   url: https://hummingbot.io/
   description: Hummingbot is an open source toolbox for professional liquidity providers.
@@ -912,9 +976,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: hummingbot
+  in_network: true
+  is_api_provider: true
+  slug: hummingbot
+  matched_by: domain
 - name: Instacart
   url: http://instacart.com/
   description: Instacart is a same-day grocery delivery company offering food and home essentials from
@@ -935,9 +1000,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: invisible-universe
+  slug: invisible-universe
+  matched_by: domain
 - name: Jinx
   url: https://thinkjinx.com/
   description: Jinx provides nutritious dog food and treats made with real ingredients.
@@ -945,9 +1011,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jinx
+  slug: jinx
+  matched_by: domain
 - name: kapa.ai
   url: https://www.kapa.ai
   description: Kapa.ai turns your knowledge base into a reliable and production-ready LLM-powered AI assistant
@@ -968,9 +1035,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: kayhan-space
+  in_network: true
+  is_api_provider: true
+  slug: kayhan-space
+  matched_by: domain
 - name: Kinlo
   url: https://kinlo.com
   description: Kinlo is Naomi Osaka's suncare line designed for the melanin-rich.
@@ -978,9 +1046,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kinlo
+  slug: kinlo
+  matched_by: domain
 - name: Kinside
   url: https://kinside.com/
   description: Kinside, acquired by UrbanSitter, is a marketplace connecting daycares/preschools with
@@ -989,9 +1058,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kinside
+  slug: kinside
+  matched_by: domain
 - name: Laurel
   url: https://www.laurel.ai/
   description: Laurel provides AI-powered timekeeping solutions for accounting and legal services.
@@ -999,9 +1069,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: laurel
+  in_network: true
+  is_api_provider: true
+  slug: laurel
+  matched_by: domain
 - name: LeadGenius
   url: https://leadgenius.com/
   description: LeadGenius delivers hard-to-find b2b contact and account data, insights, and signals from
@@ -1010,9 +1081,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: leadgenius
+  in_network: true
+  is_api_provider: true
+  slug: leadgenius
+  matched_by: domain
 - name: Lever
   url: http://lever.co
   description: Lever, acquired by Employ Inc., makes the world's leading recruiting software, with an
@@ -1058,9 +1130,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ltse
+  slug: ltse
+  matched_by: domain
 - name: Manifold
   url: https://manifold.xyz/
   description: Manifold enables web3 creators to have creative ownership, preserve on-chain provenance,
@@ -1081,9 +1154,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medivis
+  slug: medivis
+  matched_by: domain
 - name: Mezmo
   url: https://mezmo.com/
   description: Mezmo is an observability platform that ingests, processes, and routes log data to fuel
@@ -1104,9 +1178,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mindstate-design-labs
+  slug: mindstate-design-labs
+  matched_by: domain
 - name: MixerBox
   url: http://mixerbox.com/
   description: MixerBox is an all-in-one media player for listening to music, videos, and podcasts from
@@ -1115,9 +1190,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: mixerbox
+  in_network: true
+  is_api_provider: true
+  slug: mixerbox
+  matched_by: domain
 - name: Modulo
   url: https://modulo.bio/
   description: Modulo is a Biotech company working to reprogram the brain’s immune system to cure neurodegenerative
@@ -1126,9 +1202,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: modulo
+  slug: modulo
+  matched_by: domain
 - name: NanoVMs
   url: https://nanovms.com/
   description: NanoVMs runs applications faster, safer, and with less cost using cloud unikernal infrastructure.
@@ -1136,9 +1213,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nanovms
+  slug: nanovms
+  matched_by: domain
 - name: Nara Organics
   url: https://nara.com/
   description: The only USDA organic certified whole milk baby formula with no skim milk.
@@ -1146,9 +1224,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nara-organics
+  slug: nara-organics
+  matched_by: domain
 - name: NoScrubs
   url: https://noscrubs.com/
   description: NoScrubs is the fastest, most affordable laundry delivery service.
@@ -1156,9 +1235,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: noscrubs
+  slug: noscrubs
+  matched_by: domain
 - name: Numero
   url: https://numero.ai/
   description: Numero provides campaign fundraising software, supporting candidates in organizing contact
@@ -1167,9 +1247,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: numero
+  slug: numero
+  matched_by: domain
 - name: Opendoor
   url: http://opendoor.com/
   description: Opendoor is an online home-selling service aimed at streamlining the sales process down
@@ -1191,9 +1272,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: orbio
+  slug: orbio
+  matched_by: domain
 - name: Orbital Operations
   url: https://www.orbitalops.tech/
   description: Orbital Operations is building high-thrust vehicles for rapid orbital mobility.
@@ -1201,9 +1283,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: orbital-operations
+  slug: orbital-operations
+  matched_by: domain
 - name: Orderful
   url: http://orderful.com/
   description: Orderful is a complete cloud EDI platform for manufacturers, distributors, retailers, and
@@ -1212,9 +1295,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: orderful
+  in_network: true
+  is_api_provider: true
+  slug: orderful
+  matched_by: domain
 - name: OutRival
   url: https://outrival.com/
   description: OutRival builds Conversational AI Agents that cut costs, grow revenue, and scale personalized
@@ -1223,9 +1307,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: outrival
+  in_network: true
+  is_api_provider: true
+  slug: outrival
+  matched_by: domain
 - name: Pano
   url: https://pano.ai/
   description: Pano is building the world’s first, fully-integrated disaster management platform focused
@@ -1234,9 +1319,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pano
+  slug: pano
+  matched_by: domain
 - name: Panorama Education
   url: http://panoramaed.com
   description: Panorama offers an all-in-one data platform for school districts, pulling key student information
@@ -1245,9 +1331,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: panorama-education
+  slug: panorama-education
+  matched_by: domain
 - name: Papa
   url: https://papa.com/
   description: Papa helps health plans and employers connect members and their families to real people
@@ -1280,9 +1367,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: parcha
+  in_network: true
+  is_api_provider: true
+  slug: parcha
+  matched_by: domain
 - name: Partiful
   url: https://partiful.com/
   description: Partiful is a social events platform that manages invites, RSVPs, chats, details, and photo
@@ -1291,9 +1379,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: partiful
+  slug: partiful
+  matched_by: domain
 - name: Patreon
   url: http://patreon.com
   description: Patreon is the leading platform for artists and creators to monetize their content directly
@@ -1313,9 +1402,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pax
+  slug: pax
+  matched_by: domain
 - name: PermitFlow
   url: https://permitflow.com/
   description: PermitFlow provides workflow and automation software to developers and general contractors
@@ -1324,9 +1414,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: permitflow
+  slug: permitflow
+  matched_by: domain
 - name: Picogrid
   url: https://picogrid.com/
   description: Picogrid is a defense technology company that builds a platform to connect fragmented defense
@@ -1335,9 +1426,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: picogrid
+  slug: picogrid
+  matched_by: domain
 - name: PIN
   url: https://getpin.xyz/
   description: PIN (power in numbers) helps set up and launch community funds, providing the back office
@@ -1346,9 +1438,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pin
+  slug: pin
+  matched_by: domain
 - name: PlanGrid
   url: http://plangrid.com
   description: PlanGrid, acquired by Autodesk, provides access to critical project data for construction
@@ -1357,9 +1450,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plangrid
+  slug: plangrid
+  matched_by: domain
 - name: PlateIQ
   url: https://plateiq.com/
   description: PlateIQ simplifies and automates accounts payable for restaurant and hospitality brands.
@@ -1367,9 +1461,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: plateiq
+  in_network: true
+  is_api_provider: true
+  slug: plateiq
+  matched_by: name-slug
 - name: Poker Skill
   url: https://www.pokerskill.com/
   description: Poker Skill helps users level up their poker game with daily puzzles, bite-sized lessons
@@ -1378,9 +1473,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: poker-skill
+  slug: poker-skill
+  matched_by: domain
 - name: Polychain
   url: http://polychain.capital/
   description: Polychain is an investment firm that actively manages portfolios of blockchain assets.
@@ -1388,9 +1484,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: polychain
+  slug: polychain
+  matched_by: domain
 - name: Proudly
   url: https://proudly.com/
   description: Proudly is Dwayne Wade and Gabrielle Union's baby care products brand, formulated to nourish
@@ -1399,9 +1496,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: proudly
+  slug: proudly
+  matched_by: domain
 - name: Radial Analytics
   url: https://radialanalytics.com/
   description: Radial Analytics offers advanced AI-powered solutions to help health professionals make
@@ -1410,9 +1508,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: radial-analytics
+  slug: radial-analytics
+  matched_by: name-slug
 - name: Rainforest QA
   url: https://rainforestqa.com/
   description: Rainforest QA is a software testing platform that allows anyone to run complete end-to-end
@@ -1421,9 +1520,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: rainforest-qa
+  in_network: true
+  is_api_provider: true
+  slug: rainforest-qa
+  matched_by: domain
 - name: RankScience
   url: https://rankscience.com/
   description: RankScience uses data science and NLP to automate SEO, from startups to Fortune 500 companies.
@@ -1431,9 +1531,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rankscience
+  slug: rankscience
+  matched_by: domain
 - name: Reddit
   url: http://reddit.com
   description: Reddit is the world's leading online forum.
@@ -1453,9 +1554,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: red-planet-labs
+  slug: redplanetlabs
+  matched_by: domain
 - name: Reibus
   url: https://reibus.com/
   description: Reibus is a marketplace for buying and selling industrial commodities.
@@ -1463,9 +1565,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reibus
+  slug: reibus
+  matched_by: domain
 - name: Repacket
   url: https://repacket.com
   description: Repacket makes cybersecurity simple by blocking the majority of online threats by default.
@@ -1473,9 +1576,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: repacket
+  slug: repacket
+  matched_by: domain
 - name: Rescale
   url: http://rescale.com
   description: Rescale builds cloud software and services to enable organizations of every size to deliver
@@ -1484,9 +1588,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rescale
+  slug: rescale
+  matched_by: domain
 - name: Ridecell
   url: http://ridecell.com
   description: Ridecell builds the technologies and solutions that unlock the full power of fleets and
@@ -1495,9 +1600,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ridecell
+  slug: ridecell
+  matched_by: domain
 - name: Rippling
   url: https://rippling.com
   description: Rippling is the world's leading software for managing employee payroll, benefits, and company
@@ -1518,9 +1624,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ro
+  slug: ro
+  matched_by: domain
 - name: Rosebud
   url: https://www.rosebud.app/
   description: An AI-powered journal for mental health and personal growth.
@@ -1528,9 +1635,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rosebud
+  slug: rosebud
+  matched_by: domain
 - name: Routefusion
   url: https://routefusion.com/
   description: Routefusion offers companies the ability to scale in any market worldwide by presenting
@@ -1539,9 +1647,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: routefusion
+  slug: routefusion
+  matched_by: domain
 - name: Runway
   url: https://runway.com/
   description: Runway is the first strategic planning platform for modern, high growth technology companies,
@@ -1562,9 +1671,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: runwise
+  slug: runwise
+  matched_by: domain
 - name: Sabi
   url: https://sabi.io/
   description: Sabi is a brain-computer interface company developing a cap that allows users to control
@@ -1573,9 +1683,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sabi
+  slug: sabi
+  matched_by: name-slug
 - name: Seamflow
   url: https://www.seamflow.com/
   description: Seamflow builds AI-native tools for the TIC industry, turning complex regulatory workflows
@@ -1584,9 +1695,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: seamflow
+  slug: seamflow
+  matched_by: domain
 - name: SendWave
   url: https://sendwave.com/
   description: SendWave, acquired by WorldRemit, allows users to transfer money across continents without
@@ -1595,9 +1707,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sendwave
+  slug: sendwave
+  matched_by: domain
 - name: Shelf Engine
   url: http://shelfengine.com/
   description: Shelf Engine, acquired by Crisp, reduces grocery store food waste through inventory and
@@ -1606,9 +1719,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shelf-engine
+  slug: shelf-engine
+  matched_by: domain
 - name: Shogun
   url: https://getshogun.com/
   description: Shogun empowers brands to build and optimize e-commerce experiences for their customers
@@ -1617,9 +1731,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shogun
+  slug: shogun
+  matched_by: domain
 - name: Sift Science
   url: http://siftscience.com
   description: Sift offers large-scale machine-learning technology services that help e-commerce businesses
@@ -1628,9 +1743,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sift-science
+  slug: sift-science
+  matched_by: name-slug
 - name: Silo
   url: https://usesilo.com/
   description: Silo is the first produce enterprise resource planning software built for businesses to
@@ -1639,9 +1755,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: silo
+  slug: silo
+  matched_by: domain
 - name: Simple HealthKit
   url: https://www.simplehealthkit.com/
   description: Simple HealthKit is addressing health inequity with the first human-centric, complete diagnostics
@@ -1651,9 +1768,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: simple-healthkit
+  slug: simple-healthkit
+  matched_by: domain
 - name: SkySelect
   url: https://skyselect.com/
   description: SkySelect is an eProcurement-as-a-Service (ePaaS) platform for aircraft parts.
@@ -1661,9 +1779,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skyselect
+  slug: skyselect
+  matched_by: domain
 - name: Sol
   url: https://solreader.com/
   description: Sol is a reading technology company creating tools to illuminate the mind.
@@ -1671,9 +1790,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sol
+  slug: sol
+  matched_by: domain
 - name: Spaceium
   url: https://spaceium.com/
   description: Spaceium is building in-space refueling stations to power the space superhighway.
@@ -1681,9 +1801,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spaceium
+  slug: spaceium
+  matched_by: domain
 - name: Spate
   url: https://spate.nyc
   description: Spate is a machine intelligence platform that spots the next big trend, analyzing over
@@ -1692,9 +1813,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spate
+  slug: spate
+  matched_by: domain
 - name: SpecCheck
   url: https://speccheckrx.com/
   description: SpecCheck is an all-in-one solution that provides accurate prescription eyewear ordering
@@ -1704,9 +1826,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: speccheck
+  in_network: true
+  is_api_provider: true
+  slug: speccheck
+  matched_by: domain
 - name: Stacker
   url: https://stackerhq.com/
   description: Stacker allows teams to create software out of spreadsheets with no coding required.
@@ -1726,9 +1849,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: standard-cognition
+  slug: standard-ai
+  matched_by: domain
 - name: Star Catcher
   url: https://star-catcher.com/
   description: 'Star Catcher''s mission is to eliminate power constraints on satellites and other spacecraft
@@ -1737,9 +1861,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: star-catcher
+  slug: star-catcher
+  matched_by: domain
 - name: Stellar Sleep
   url: https://stellarsleep.com/
   description: Stellar Sleep uses psychology to help the 25 million Americans with chronic insomnia who
@@ -1748,9 +1873,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stellar-sleep
+  slug: stellar-sleep
+  matched_by: domain
 - name: Streak
   url: http://streak.com
   description: Streak lets its users manage customers, sales, email support, bug tracking, and hiring
@@ -1771,9 +1897,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sxd
+  slug: sxd
+  matched_by: domain
 - name: Sygaldry
   url: https://sygaldry.com/
   description: Sygaldry is building the infrastructure for quantum superintelligence.
@@ -1781,9 +1908,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sygaldry
+  slug: sygaldry
+  matched_by: domain
 - name: Synquote
   url: https://synquote.com/
   description: Synquote offers decentralized access to cryptocurrency options markets.
@@ -1791,9 +1919,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: synquote
+  slug: synquote
+  matched_by: domain
 - name: Talos
   url: https://talos.com/
   description: Talos provides buy-side institutions and service providers with technology infrastructure
@@ -1802,9 +1931,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: talos
+  slug: talos
+  matched_by: domain
 - name: Terminal 49
   url: https://terminal49.com
   description: Terminal 49 is an all-in-one shipment and container tracking platform.
@@ -1823,9 +1953,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: termius
+  in_network: true
+  is_api_provider: true
+  slug: termius
+  matched_by: domain
 - name: The Mom Project
   url: https://themomproject.com/
   description: The Mom Project connects world-class companies with talented and diverse women, unlocking
@@ -1834,9 +1965,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-mom-project
+  slug: the-mom-project
+  matched_by: domain
 - name: Theorem
   url: http://theoremlp.com/
   description: Theorem, acquired by Pagaya Technologies Ltd., uses data science and machine learning to
@@ -1845,9 +1977,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: theorem
+  slug: theorem
+  matched_by: domain
 - name: TigerEye
   url: https://tigereye.com/
   description: TigerEye, acquired by Lennar, is an AI-powered planning platform for go-to-market leaders
@@ -1856,9 +1989,10 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tigereye
+  slug: tigereye
+  matched_by: domain
 - name: Tilt
   url: https://www.tilt.com/
   description: Tilt is a better way to access money, helping more people get cash and credit by looking
@@ -1867,9 +2001,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tilt
+  slug: tilt
+  matched_by: domain
 - name: Torch
   url: https://torch.io
   description: Torch integrates coaching, mentoring, and group learning for professional development and
@@ -1878,9 +2013,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: torch
+  slug: torch
+  matched_by: domain
 - name: Trilobio
   url: https://www.trilo.bio/
   description: Trilobio is building the hardware and software to fully automate biology labs, transforming
@@ -1889,9 +2025,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trilobio
+  slug: trilobio
+  matched_by: domain
 - name: TRM Labs
   url: https://trmlabs.com/
   description: TRM leads transaction monitoring and security for cryptocurrency trading and digital assets.
@@ -1899,9 +2036,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: trm-labs
+  in_network: true
+  is_api_provider: true
+  slug: trm-labs
+  matched_by: domain
 - name: True Link Financial
   url: https://truelinkfinancial.com/
   description: True Link provides financial solutions for people with complex needs and their caretakers.
@@ -1909,9 +2047,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: true-link-financial
+  slug: true-link-financial
+  matched_by: domain
 - name: Truepill
   url: https://truepill.com/
   description: Truepill is the leading telehealth fulfillment and patient engagement platform.
@@ -1930,7 +2069,7 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  slug: trunk-io
+  slug: trunk
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1941,9 +2080,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: upwave
+  slug: upwave
+  matched_by: domain
 - name: Valar Atomics
   url: https://www.valaratomics.com/
   description: Valar Atomics is scaling nuclear energy for heavy industrial power and clean hydrocarbon
@@ -1952,9 +2092,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: valar-atomics
+  slug: valar-atomics
+  matched_by: domain
 - name: Vetcove
   url: https://vetcove.com/
   description: Vetcove powers the animal health supply chain.
@@ -1962,9 +2103,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vetcove
+  slug: vetcove
+  matched_by: domain
 - name: Vibe Bio
   url: https://vibebio.com/
   description: Vibe Bio is a biotech company composed of patients, scientists, and partners that is governed
@@ -1973,9 +2115,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vibe-bio
+  slug: vibe-bio
+  matched_by: domain
 - name: Weave
   url: http://getweave.com
   description: Weave brings together a phone system and a suite of communication tools for medical professionals
@@ -1995,9 +2138,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: withco
+  slug: withco
+  matched_by: name-slug
 - name: WorkRamp
   url: https://workramp.com
   description: WorkRamp is the all-in-one learning platform for training, educating, and onboarding employees.
@@ -2017,6 +2161,7 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zeroentropy
+  in_network: true
+  is_api_provider: true
+  slug: zeroentropy
+  matched_by: domain
