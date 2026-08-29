@@ -12,6 +12,17 @@ description: >-
   firm had raised more than $3.2B across its funds and has backed 200+ companies, including 28 unicorns such
   as Coinbase, Instacart, Cruise, Flexport, Reddit, Opendoor, Rippling, and Patreon, with portfolio
   companies creating an aggregate of over $200B in market value.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
