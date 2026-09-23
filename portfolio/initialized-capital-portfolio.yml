@@ -1463,7 +1463,7 @@ companies:
   source: https://initialized.com/companies
   in_network: true
   is_api_provider: true
-  slug: plateiq
+  slug: ottimate
   matched_by: name-slug
 - name: Poker Skill
   url: https://www.pokerskill.com/
