@@ -38,7 +38,7 @@ image: https://initialized.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Venture Capital
@@ -72,6 +72,8 @@ tags_raw:
   - North America
 apis: []
 common:
+  - url: https://blog.initialized.com/feed/
+    type: BlogRSS
   - type: Website
     url: https://initialized.com/
   - type: Portfolio
