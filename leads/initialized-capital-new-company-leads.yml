@@ -1,4 +1,53 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: initialized-capital
-leads: []
+leads:
+- name: Arena AI
+  url: https://arena-ai.com/
+  suggested_slug: arena-ai-com
+  sector: enterprise-saas
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false
+- name: Ava
+  url: https://ava.me/
+  suggested_slug: ava-me
+  sector: enterprise-saas
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false
+- name: Clipboard Health
+  url: http://clipboardhealth.com
+  suggested_slug: clipboardhealth-com
+  sector: marketplaces
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false
+- name: PlateIQ
+  url: https://plateiq.com/
+  suggested_slug: plateiq
+  sector: enterprise-saas
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false
+- name: Radial Analytics
+  url: https://radialanalytics.com/
+  suggested_slug: radialanalytics-com
+  sector: enterprise-saas
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false
+- name: Runway
+  url: https://runway.com/
+  suggested_slug: runway-com
+  sector: enterprise-saas
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false
+- name: Sift Science
+  url: http://siftscience.com
+  suggested_slug: sift-science
+  sector: enterprise-saas
+  source_vc: initialized-capital
+  source: https://initialized.com/companies
+  stub_created: false

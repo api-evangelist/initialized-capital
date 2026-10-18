@@ -3,9 +3,9 @@ method: searched
 source: https://initialized.com/companies
 summary:
   portfolio_total: 184
-  in_network: 184
-  api_providers: 55
-  missing: 0
+  in_network: 177
+  api_providers: 59
+  missing: 7
   stubs_created: 0
 companies:
 - name: 10x Science
@@ -66,7 +66,7 @@ companies:
   source: https://initialized.com/companies
   in_network: true
   is_api_provider: false
-  slug: a-frame-brands
+  slug: a-frame
   matched_by: domain
 - name: Albedo
   url: https://albedo.space/
@@ -90,7 +90,7 @@ companies:
   source: https://initialized.com/companies
   slug: algolia
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Alien
   url: https://alien.org/
@@ -124,7 +124,7 @@ companies:
   source: https://initialized.com/companies
   in_network: true
   is_api_provider: false
-  slug: alliance
+  slug: alliance-dao
   matched_by: domain
 - name: Apero
   url: https://aperohealth.com/
@@ -181,10 +181,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: arena-ai
-  matched_by: name-slug
+  x-name-collision: arena-ai
+  suggested_slug: arena-ai-com
 - name: Around
   url: https://miro.com/
   description: Around, acquired by Miro, is video calling designed to help hybrid-remote teams create,
@@ -261,10 +261,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  slug: ava
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: ava
+  suggested_slug: ava-me
 - name: Ava Labs
   url: https://avalabs.org/
   description: AVAX, created by Ava Labs, is a cryptocurrency that uses Avalanche consensus.
@@ -319,7 +319,7 @@ companies:
   source: https://initialized.com/companies
   in_network: true
   is_api_provider: false
-  slug: bellhops
+  slug: bellhop
   matched_by: domain
 - name: Beyond Aero
   url: https://www.beyond-aero.com/
@@ -364,9 +364,9 @@ companies:
   stage: seed
   status: ipo
   source: https://initialized.com/companies
-  slug: blend-labs
+  slug: blend-mortgage
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Bodyport
   url: http://bodyport.com/
@@ -425,7 +425,7 @@ companies:
   status: active
   source: https://initialized.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: caliza
   matched_by: name-slug
 - name: Clairity
@@ -460,10 +460,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: clipboard-health
-  matched_by: name-slug
+  x-name-collision: clipboard-health
+  suggested_slug: clipboardhealth-com
 - name: Clone
   url: https://clonerobotics.com/
   description: Clone is building muscoskeletal intelligent androids to solve all the common problems of
@@ -944,7 +944,7 @@ companies:
   source: https://initialized.com/companies
   in_network: true
   is_api_provider: false
-  slug: dattch
+  slug: her
   matched_by: domain
 - name: HomeVision
   url: https://homevision.co/
@@ -1451,7 +1451,7 @@ companies:
   status: acquired
   source: https://initialized.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: plangrid
   matched_by: domain
 - name: PlateIQ
@@ -1461,10 +1461,9 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: true
-  is_api_provider: true
-  slug: ottimate
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plateiq
 - name: Poker Skill
   url: https://www.pokerskill.com/
   description: Poker Skill helps users level up their poker game with daily puzzles, bite-sized lessons
@@ -1508,10 +1507,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: radial-analytics
-  matched_by: name-slug
+  x-name-collision: radial-analytics
+  suggested_slug: radialanalytics-com
 - name: Rainforest QA
   url: https://rainforestqa.com/
   description: Rainforest QA is a software testing platform that allows anyone to run complete end-to-end
@@ -1648,7 +1647,7 @@ companies:
   status: active
   source: https://initialized.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: routefusion
   matched_by: domain
 - name: Runway
@@ -1659,10 +1658,10 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  slug: runway
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: runway
+  suggested_slug: runway-com
 - name: Runwise
   url: https://runwise.com/
   description: Runwise monitors and automatically controls and monitors heating and water systems for
@@ -1743,10 +1742,9 @@ companies:
   stage: seed
   status: active
   source: https://initialized.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: sift-science
-  matched_by: name-slug
+  suggested_slug: sift-science
 - name: Silo
   url: https://usesilo.com/
   description: Silo is the first produce enterprise resource planning software built for businesses to
@@ -2049,7 +2047,7 @@ companies:
   source: https://initialized.com/companies
   in_network: true
   is_api_provider: false
-  slug: true-link-financial
+  slug: true-link
   matched_by: domain
 - name: Truepill
   url: https://truepill.com/
@@ -2127,7 +2125,7 @@ companies:
   stage: seed
   status: acquired
   source: https://initialized.com/companies
-  slug: weave-hq
+  slug: weave
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -2151,7 +2149,7 @@ companies:
   source: https://initialized.com/companies
   slug: workramp
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: ZeroEntropy
   url: https://www.zeroentropy.dev/
